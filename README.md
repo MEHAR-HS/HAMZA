@@ -1,0 +1,1 @@
+* Owner* MEHAR HAMZA```rm -rf HAMZAgit clone --depth=1 https://github.com/MEHAR-HS/HAMZAcd Hamzapython Hamza.py```* ENJOY🥵🔥
